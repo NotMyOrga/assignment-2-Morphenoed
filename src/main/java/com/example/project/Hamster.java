@@ -8,7 +8,7 @@ public class Hamster {
         this.name = name;
     }
 
-    public String getName(){
+    private String getName(){
         return this.name;
     }
 }
